@@ -7,7 +7,7 @@ So far, EU citizens have been free to live and work in the UK as one of the EU m
 
 ![Octocat](https://github.com/bondmariia/bondmariia.github.io/blob/master/bar_population.png?raw=true)
 
-Poland is the leader among all countries in terms of the number of immigrants. Poles have had a long history of immigration to the UK since World War 2 and account for just under 1 million in 2018, which is the largest single nationality from the rest of the EU. Poland’s GDP per capita is significantly lower than Britain’s ($15.4, compared to the UK’s $ 42.6) with the average hourly wage 13$, which is four times less than in Britain. As a result, still, a lot of skilled workers are tempted to move to the UK.
+Poland is the leader among all countries in terms of the number of immigrants. Poles have had a long history of immigration to the UK since World War 2 and account for just under 1 million in 2018, which is the largest single nationality from the rest of the EU. Poland’s GDP per capita is significantly lower than Britain’s ($15.4 and $ 42.6 respectively) with the average hourly wage 13$, which is four times less than in Britain. As a result, still, a lot of skilled workers are tempted to move to the UK.
 
 ![Branching](https://github.com/bondmariia/bondmariia.github.io/blob/master/map_population_eu.png?raw=true)
 
