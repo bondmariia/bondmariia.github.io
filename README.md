@@ -17,7 +17,7 @@ Close ties link Great Britain with India, Pakistan, Bangladesh as former colonie
 
 Meanwhile, if we look at the correlation between the number of immigrants and the total population of each country we can see a different picture. The ratio for immigrants from Ireland is high due to a relatively low population and the close proximity of this country to the UK, so it is an absolute leader for this rate. Another reason is that the legal regulations for Irish migrants are favourable, which almost equates Irish with British citizens.  It works the other way around for India, which shows one of the highest numbers of the immigrated population, whereas the ratio is much lower due to the enormous total population of the country.
 
-![Branching](https://raw.githubusercontent.com/bondmariia/bondmariia.github.io/blob/master/57118214_431396310946268_5265586087639646208_n.png)
+![Branching](https://github.com/bondmariia/bondmariia.github.io/blob/master/reasons.png?raw=true)
 
 All the people who decided to move to the UK do it for a specific reason. The statistics show that the tendency for the main reasons to migrate was changing from year to year. From 1990 to 1997, those reasons were distributed almost equally, but since 1997 there was an absolute winner – labour migration. The UK's labour market is considered to be an attractive place for migrants from both within the EU and from non-EU countries. In the meantime, more people move to the UK for a definite job, rather than to look for a job. Another popular reason to migrate is a formal study. A family joining is one of the least popular reasons and remains relatively stable throughout this period.
 
