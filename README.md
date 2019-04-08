@@ -7,7 +7,7 @@ So far, EU citizens have been free to live and work in the UK as one of the EU m
 
 Poland is the leader among all countries in terms of the number of immigrants. Poles have had a long history of immigration to the UK since World War 2 and account for just under 1 million in 2018, which is the largest single nationality from the rest of the EU. Poland’s GDP per capita is significantly lower than Britain’s ($15.4, compared to the UK’s $ 42.6) with the average hourly wage 13$, which is four times less than in Britain. As a result, still, a lot of skilled workers are tempted to move to the UK.
 
-![Branching](https://raw.githubusercontent.com/bondmariia/bondmariia.github.io/blob/master/map_population_eu.png)
+![Branching](https://github.com/bondmariia/bondmariia.github.io/blob/master/map_population_eu.png?raw=true)
 
 The situation is worse in Romania, the country with the second the most significant number of migrants moving to the UK. When the country joined the EU, it was expected that Romania would grow and develop its economy. However, this country is still stuck with corruption and poverty. According to Eurostat, more than a third of Romanians are at risk of poverty and almost half of the country’s children are borderline poor. Consequently, more than 400 thousand people born in Romania moved to the UK and currently live there.
 
