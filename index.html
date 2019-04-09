@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Line Chart</title>
+    <title>Great Britain</title>
     <script src="Chart.min.js"></script>
-    <style>
-        canvas{
-            -moz-user-select: none;
-            -webkit-user-select: none;
-            -ms-user-select: none;
-        }
-    </style>
+   
 </head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -18,7 +12,7 @@
 
 <style>
     body,h1,h2,h3,h4,h5 {font-family: "Comfortaa", sans-serif}
-    .center-container {
+    div.center-container {
         height: 100%;
         display: flex;
         align-items: center;
@@ -35,6 +29,11 @@
     div.name{
         padding-left:1100px;
     }
+    canvas{
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+        }
 
 
 </style>
@@ -58,13 +57,14 @@
                         Almost 10 million people of the British population were born abroad. However, the centres of migration are not homogeneous around the world.
                         The immigration law that varies for countries, as well as the reason to migrate to the UK, create a pattern of origin of immigrants in the United Kingdom.
                     </p>
-                    <hr>
+                    
                     <p>
                         So far, EU citizens have been free to live and work in the UK as one of the EU member states without the need for a visa.
                         That ensures free movement of labour and job opportunities for those EU citizens who seek a better life.
                         Even though, after three months upon arrival you should prove that you have a job, are a student or can support yourself on your own, this is an opportunity that is widely used by those who want to improve their financial situation.
                         Eastern Europe as the least developed part of the EU is the main flashpoint of immigration to the UK in Europe.
                     </p>
+                    <hr>
                     <p>
                     <img style="width: 80%; height: 80%" src="pics/map_pop_full_cut.png" alt="Population">
                         <br />
@@ -140,7 +140,7 @@
 <script>
 
 
-    const config = {
+    const linereason = {
         type: 'line',
         data: {
             labels: [1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017],
@@ -312,7 +312,7 @@
             }
         });
         const ctx_reas = document.getElementById('line_reas').getContext('2d');
-        window.myLine = new Chart(ctx_reas, config);
+        window.myLine = new Chart(ctx_reas, linereason);
     };
 </script>
 
